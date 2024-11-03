@@ -1,0 +1,1 @@
+pyinstaller --onefile .\tri_calc.py
