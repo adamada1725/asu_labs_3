@@ -1,0 +1,10 @@
+WINDOW_WIDTH = "640"
+WINDOW_HEIGHT = "480"
+WINDOW_SIZE = f"{WINDOW_WIDTH}x{WINDOW_HEIGHT}"
+WINDOW_SIZE_SMALL = "300x400"
+TITLE = "Числа Фибоначчи"
+ICON = "favicon.ico"
+FONT = ("Comic Sans MS", 14)
+AVATAR = "avatar.jpg"
+BG_COLOR = "#ffffff"
+BG_COLOR_DARK = "#e0e0e0"
